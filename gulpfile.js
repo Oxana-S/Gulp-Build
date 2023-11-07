@@ -101,14 +101,16 @@ function styles() {
 }
 
 // Обработка Java Script
+// Здесь в массиве указать порядок подключения скриптов, например:
+// const js_files = [
+//   'src/scripts/lib/*.*', // например здесь jQuery
+//   'src/scripts/bold-transition.js',
+//   'src/scripts/burger.js',
+// ...
+// ]
 const js_files = [
   'src/scripts/lib/*.*',
-  'src/scripts/bold-transition.js',
-  'src/scripts/burger.js',
-  'src/scripts/fix-header.js',
-  'src/scripts/lamp.js',
-  'src/scripts/modal.js',
-  'src/scripts/scroll.js'
+  'src/scripts/test.js',
 ]
 
 function scripts() {
