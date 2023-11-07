@@ -1,6 +1,6 @@
 # Сборка проекта на Gulp 4
 
-Данная сборка форкнута с github: https://github.com/morphIsmail/testGulpBuild  
+Данная сборка форкнута с github: https://github.com/morphIsmail/testGulpBuild и переработана мной.
 Задача:
 Быстро настроить сборку проекта на Gulp и писать код на:
 
