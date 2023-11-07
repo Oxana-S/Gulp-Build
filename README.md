@@ -61,7 +61,6 @@ HTML, SCSS, CSS, JS, IMG
 1. Скачать все файлы проекта:
 
    > package.json  
-   > package-lock.json  
    > gulpfile.js  
    > README.md  
    > .gitignore
